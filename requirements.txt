@@ -7,4 +7,4 @@ ddgs>=6.0
 # Only needed if your brief is longer than ~12,000 characters and the app
 # falls back to embedding-based retrieval (SIMPLE_MODE=False in app.py).
 # Uncomment if you see an ImportError for sentence_transformers in the logs:
-# sentence-transformers>=3.0
+sentence-transformers>=3.0
